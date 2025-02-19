@@ -1,1 +1,1 @@
-# Brewlabs official API endpoint
+# Tradingview chart OHLC api
